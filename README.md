@@ -42,7 +42,7 @@ localStorage.setItem("development-code-url", "http://localhost:36291/development
 
 #### Clone the repository
 ```
-git clone https://github.com/smd80p/nb-theme-bootstrap-lp
+git clone https://github.com/smd80p/nb-theme-bootstrap
 cd nb-theme-bootstrap-lp
 npm install 
 ```
